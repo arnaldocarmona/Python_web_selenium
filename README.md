@@ -1,3 +1,3 @@
-## Web_Selenium_for_automation
+## Projeto de web scraping com selenium
 
-This is a simple project of automation using Selenium, just to show people how it works and how easy to code it is.
+Este é um projeto simples de web scraping para demontrar como é possível automatizar uma tarefa que pode ser rotineira.
